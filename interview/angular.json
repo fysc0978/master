@@ -123,6 +123,6 @@
   },
   "defaultProject": "interview",
   "cli": {
-    "analytics": "f718ca70-d51c-4f7a-a676-510b96998feb"
+    "analytics": false
   }
 }
