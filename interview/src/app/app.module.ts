@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { AddressComponent } from './address/address.component';
 import { HomeComponent } from './home/home.component';
 import { ContactsComponent } from './contacts/contacts.component';
+import { EmailComponent } from './email/email.component';
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { ContactsComponent } from './contacts/contacts.component';
     AppComponent,
     AddressComponent,
     HomeComponent,
-    ContactsComponent
+    ContactsComponent,
+    EmailComponent
   ],
   imports: [
     BrowserModule,
